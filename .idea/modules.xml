@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Learning_Java.iml" filepath="$PROJECT_DIR$/Learning_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionals_loops/conditionals_loops.iml" filepath="$PROJECT_DIR$/conditionals_loops/conditionals_loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionals_prac/conditionals_prac.iml" filepath="$PROJECT_DIR$/conditionals_prac/conditionals_prac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first-idea-program/first-idea-program.iml" filepath="$PROJECT_DIR$/first-idea-program/first-idea-program.iml" />
+    </modules>
+  </component>
+</project>
